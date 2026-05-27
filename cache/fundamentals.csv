@@ -1,0 +1,504 @@
+,PE,ROE,Sector
+MMM,29.678226,0.71458,Industrials
+AOS,15.554667,0.28267,Industrials
+ABT,24.277311,0.123339996,Healthcare
+ABBV,103.960976,,Healthcare
+ACN,14.508197,0.24763,Technology
+ADBE,14.006407,0.58774,Technology
+AMD,166.851,0.08063,Technology
+AES,7.640625,0.052600004,Utilities
+AFL,13.350857,0.16469,Financial Services
+A,25.403973,0.19945998,Healthcare
+APD,30.484211,0.12353,Basic Materials
+ABNB,32.76049,0.32325,Consumer Cyclical
+AKAM,50.070946,0.091680005,Technology
+ALB,,-0.0182,Basic Materials
+ARE,,-0.04144,Real Estate
+ALGN,27.487396,0.10824,Healthcare
+ALLE,17.979507,0.34179002,Industrials
+LNT,23.169811,0.113120005,Utilities
+ALL,4.708407,0.45221,Financial Services
+GOOGL,29.662853,0.38884997,Communication Services
+GOOG,29.332317,0.38884997,Communication Services
+MO,15.108561,,Consumer Defensive
+AMZN,31.657518,0.24285,Consumer Cyclical
+AMCR,31.16,0.08737001,Consumer Cyclical
+AEE,19.969425,0.117469996,Utilities
+AEP,19.392591,0.12585,Utilities
+AXP,19.383656,0.34419,Financial Services
+AIG,13.589789,0.07723,Financial Services
+AMT,29.830647,0.29952,Real Estate
+AWK,21.95922,0.10217,Utilities
+AMP,11.35061,0.66936,Financial Services
+AME,34.606335,0.14626999,Industrials
+AMGN,23.361614,1.01318,Healthcare
+APH,40.103447,0.36825,Technology
+ADI,62.491074,0.09639,Technology
+AON,17.514538,0.46447,Financial Services
+APA,8.741259,0.26217,Energy
+APO,82.22152,0.08492,Financial Services
+AAPL,37.328083,1.4147099,Technology
+AMAT,42.75282,0.39692003,Technology
+APP,44.638885,2.66444,Communication Services
+APTV,34.976192,0.040799998,Consumer Cyclical
+ACGL,7.336154,0.21305999,Financial Services
+ADM,34.825893,0.047659997,Consumer Defensive
+ARES,57.732716,0.14182,Financial Services
+ANET,54.298965,0.31520998,Technology
+AJG,33.00324,0.07007,Financial Services
+AIZ,13.121989,0.18016,Financial Services
+T,8.230264,0.18370001,Communication Services
+ATO,21.8867,0.096,Utilities
+ADSK,45.46374,0.39675,Technology
+ADP,20.368471,0.71208,Technology
+AZO,21.738379,,Consumer Cyclical
+AVB,22.935564,0.09719,Real Estate
+AVY,17.995495,0.30857,Consumer Cyclical
+AXON,155.9919,0.06765,Industrials
+BKR,21.319489,0.17184,Energy
+BALL,16.48688,0.16785999,Consumer Cyclical
+BAC,12.952853,0.10644,Financial Services
+BAX,,-0.15010999,Healthcare
+BDX,25.78534,0.06672,Healthcare
+BRK-B,14.38917,0.10499,Financial Services
+BBY,12.543652,0.37041,Consumer Cyclical
+TECH,68.52857,0.053400002,Healthcare
+BIIB,20.738989,0.077010006,Healthcare
+BLK,27.097588,0.118990004,Financial Services
+BX,30.28718,0.29533002,Financial Services
+XYZ,54.039062,0.03743,Technology
+BNY,17.52174,0.13472,Financial Services
+BA,86.1811,1.69947,Industrials
+BKNG,21.543537,,Consumer Cyclical
+BSX,24.117153,0.14661,Healthcare
+BMY,16.254902,0.38731998,Healthcare
+AVGO,81.94369,0.33370999,Technology
+BR,15.716577,0.42314,Technology
+BRO,18.563519,0.11926,Financial Services
+BF-B,14.755814,0.20417,Consumer Defensive
+BLDR,28.400766,0.06958,Industrials
+BG,31.605263,0.04933,Consumer Defensive
+BXP,30.457287,0.05525,Real Estate
+CHRW,35.941418,0.34838,Industrials
+CDNS,89.193924,0.20656,Technology
+CPT,30.094973,0.09064999,Real Estate
+CPB,10.940217,0.13891,Consumer Defensive
+COF,57.537037,0.03259,Financial Services
+CAH,30.590837,,Healthcare
+CCL,11.76652,0.27853,Consumer Cyclical
+CARR,43.26,0.09907,Industrials
+CVNA,40.549133,0.60172004,Consumer Cyclical
+CASY,46.517815,0.17882,Consumer Cyclical
+CAT,45.246513,0.51331,Industrials
+CBOE,30.29829,0.2514,Financial Services
+CBRE,29.558086,0.15597,Real Estate
+CDW,13.226552,0.44157,Technology
+COR,20.749424,1.0713401,Healthcare
+CNC,,-0.26044,Healthcare
+CNP,26.337423,0.09561,Utilities
+CF,10.725473,0.273,Basic Materials
+CRL,,-0.0587,Healthcare
+SCHW,17.77336,0.19083,Financial Services
+CHTR,3.896104,0.27504998,Communication Services
+CVX,32.179443,0.06638,Energy
+CMG,29.642202,0.49231997,Consumer Cyclical
+CB,11.508133,0.15433,Financial Services
+CHD,31.799341,0.16779,Consumer Defensive
+CIEN,383.6879,0.08201,Technology
+CI,2.4697034,0.16268998,Healthcare
+CINF,9.556064,0.18735,Financial Services
+CTAS,36.094936,0.41303003,Industrials
+CSCO,39.312294,0.25229,Technology
+C,15.6810875,0.07649,Financial Services
+CFG,15.082939,0.07739,Financial Services
+CLX,15.647155,5.46099,Consumer Defensive
+CME,24.086958,0.15919,Financial Services
+CMS,20.554016,0.103719994,Utilities
+KO,25.301886,0.43372002,Consumer Defensive
+CTSH,11.238611,0.14876,Technology
+COHR,181.59525,0.04718,Technology
+COIN,66.180145,0.06686,Financial Services
+CL,34.82558,3.6357698,Consumer Defensive
+CMCSA,4.9313726,0.20918,Communication Services
+FIX,54.343914,0.53294,Industrials
+CAG,,-0.00511,Consumer Defensive
+COP,19.757627,0.112840004,Energy
+ED,18.161888,0.08732,Utilities
+STZ,15.363164,0.22636999,Consumer Defensive
+CEG,26.177952,0.16104999,Utilities
+COO,30.860697,0.04868,Healthcare
+CPRT,20.90566,0.17607,Industrials
+GLW,94.3125,0.1674,Technology
+CPAY,20.922203,0.32124,Technology
+CTVA,42.75135,0.051370002,Basic Materials
+CSGP,464.57144,0.00303,Real Estate
+COST,52.073208,0.29650998,Consumer Defensive
+CRH,18.944342,0.15812,Basic Materials
+CRWD,,-0.04137,Technology
+CCI,38.244728,,Real Estate
+CSX,28.595093,0.23684,Industrials
+CMI,34.72222,0.21993999,Industrials
+CVS,39.79386,0.037520003,Healthcare
+DHR,33.42553,0.0708,Healthcare
+DRI,21.45579,0.51539004,Consumer Cyclical
+DDOG,588.5526,0.039300002,Technology
+DVA,18.841042,0.80981004,Healthcare
+DECK,15.874644,0.40859002,Consumer Cyclical
+DE,29.944538,0.18349001,Industrials
+DELL,35.10702,,Technology
+DAL,11.589781,0.2499,Industrials
+DVN,12.573816,0.15178001,Energy
+DXCM,30.90558,0.35624,Healthcare
+FANG,199.11224,0.0047400002,Energy
+DLR,51.23545,0.05688,Real Estate
+DG,15.125547,0.18992001,Consumer Defensive
+DLTR,15.77441,0.31693,Consumer Defensive
+D,19.846607,0.09787,Utilities
+DPZ,17.860762,,Consumer Cyclical
+DASH,72.98579,0.09922,Consumer Cyclical
+DOV,26.958698,0.14998001,Industrials
+DOW,,-0.15262,Basic Materials
+DHI,13.684211,0.13084,Consumer Cyclical
+DTE,23.825369,0.10423,Utilities
+DUK,19.226154,0.09661,Utilities
+DD,130.1579,0.00896,Basic Materials
+ETN,39.368164,0.20844999,Industrials
+EBAY,26.569122,0.42875,Consumer Cyclical
+SATS,,-1.1228399,Communication Services
+ECL,34.355404,0.22427,Basic Materials
+EIX,7.7434783,0.18864,Utilities
+EW,47.31892,0.1046,Healthcare
+EA,57.139206,0.1349,Communication Services
+ELV,16.448261,0.12086,Healthcare
+EME,28.906376,0.39229,Industrials
+EMR,32.707657,0.12328,Industrials
+ETR,28.563776,0.10751,Utilities
+EOG,13.39233,0.18195,Energy
+EPAM,14.3232765,0.10932,Technology
+EQT,10.666034,0.13402,Energy
+EFX,28.663733,0.1437,Industrials
+EQIX,74.62812,0.10059,Real Estate
+EQR,26.452,0.08671,Real Estate
+ERIE,20.44638,0.2585,Financial Services
+ESS,31.151688,0.105579995,Real Estate
+EL,,-0.05949,Consumer Defensive
+EG,7.17332,0.13822,Financial Services
+EVRG,22.36968,0.08866999,Utilities
+ES,14.925053,0.10912,Utilities
+EXC,16.860806,0.09764,Utilities
+EXE,7.0349708,0.17568001,Energy
+EXPE,19.679611,0.71494,Consumer Cyclical
+EXPD,25.961227,0.36641,Industrials
+EXR,32.357307,0.0683,Real Estate
+XOM,25.178152,0.09873,Energy
+FFIV,32.56768,0.2034,Technology
+FDS,14.859716,0.28084,Financial Services
+FICO,39.99651,,Technology
+FAST,39.336285,0.33842,Industrials
+FRT,20.824957,0.14783,Real Estate
+FDX,21.367521,0.15869,Industrials
+FIS,8.182171,0.17225,Technology
+FITB,16.77441,0.07969,Financial Services
+FSLR,17.449903,0.18436001,Technology
+FE,25.347826,0.094610006,Utilities
+FISV,9.425424,,Unknown
+F,,-0.14813,Consumer Cyclical
+FTNT,51.72201,1.32392,Technology
+FTV,35.482353,0.06814,Technology
+FOXA,17.094736,0.152,Communication Services
+FOX,15.284211,0.152,Communication Services
+BEN,24.175573,0.06704,Financial Services
+FCX,34.05291,0.15630999,Basic Materials
+GRMN,26.591972,0.19899,Technology
+IT,15.601779,0.94878,Technology
+GE,39.067078,0.45428002,Industrials
+GEHC,15.390887,0.19462,Healthcare
+GEV,31.245476,0.75708,Industrials
+GEN,15.7707,0.39876997,Technology
+GNRC,86.150475,0.07388,Industrials
+GD,21.689114,0.17974001,Industrials
+GIS,8.107579,0.23591,Consumer Defensive
+GM,29.120438,0.040149998,Consumer Cyclical
+GPC,220.56819,0.01342,Consumer Cyclical
+GILD,18.169836,0.4336,Healthcare
+GPN,26.941175,0.02935,Industrials
+GL,10.847751,0.20455,Financial Services
+GDDY,14.103011,3.98215,Technology
+GS,18.148176,0.14548,Financial Services
+HAL,22.696135,0.14626999,Energy
+HIG,9.525686,0.22735001,Financial Services
+HAS,,-0.23316,Consumer Cyclical
+HCA,13.513085,,Healthcare
+DOC,62.593754,0.027999999,Real Estate
+HSIC,22.326284,0.08762,Healthcare
+HSY,35.590317,0.23234,Consumer Defensive
+HPE,,-0.00471,Technology
+HLT,49.512234,,Consumer Cyclical
+HD,22.071074,1.2838,Consumer Cyclical
+HON,37.015972,0.24264,Industrials
+HRL,23.47191,0.061160002,Consumer Defensive
+HST,15.721088,0.1487,Real Estate
+HWM,60.622684,0.33818,Industrials
+HPQ,9.253788,,Technology
+HUBB,28.253546,0.25822002,Industrials
+HUM,32.163113,0.062800005,Healthcare
+HBAN,12.353847,0.083859995,Financial Services
+HII,20.827385,0.12198,Industrials
+IBM,22.16534,0.35772,Technology
+IEX,31.232248,0.12748,Industrials
+IDXX,40.971325,0.72915,Healthcare
+ITW,23.250696,0.96848,Industrials
+INCY,13.714689,0.30823,Healthcare
+IR,48.93919,0.057150003,Industrials
+PODD,35.934578,0.22997999,Healthcare
+INTC,,-0.02911,Technology
+IBKR,35.575108,0.2356,Financial Services
+ICE,21.92722,0.13853,Financial Services
+IFF,23.489164,0.060510002,Basic Materials
+IP,,-0.16036,Consumer Cyclical
+INTU,18.580587,0.22496,Technology
+ISRG,53.18392,0.17232999,Healthcare
+IVZ,,-0.01535,Financial Services
+INVH,30.947369,0.061929997,Real Estate
+IQV,20.124224,0.22490999,Healthcare
+IRM,139.5652,,Real Estate
+JBHT,41.493027,0.16676001,Industrials
+JBL,51.315792,0.59696996,Technology
+JKHY,19.184359,0.24892001,Technology
+J,34.174038,0.09380999,Industrials
+JNJ,26.672073,0.26416,Healthcare
+JCI,42.880733,0.13449,Industrials
+JPM,14.68358,0.16465001,Financial Services
+KVUE,20.821428,0.15701,Consumer Defensive
+KDP,21.888887,0.06312,Consumer Defensive
+KEY,13.355828,0.09977,Financial Services
+KEYS,57.10112,0.18174,Technology
+KMB,19.104448,1.11727,Consumer Defensive
+KIM,28.206898,0.058579996,Real Estate
+KMI,22.060402,0.10597,Energy
+KKR,32.30952,0.076630004,Financial Services
+KLAC,56.818924,0.94975996,Technology
+KHC,,-0.12576,Consumer Defensive
+KR,41.91559,0.14405,Consumer Defensive
+LHX,33.998913,,Industrials
+LH,22.891941,0.11047,Healthcare
+LRCX,60.998108,0.66762,Technology
+LVS,18.357933,0.90455,Consumer Cyclical
+LDOS,11.721866,0.30579,Technology
+LEN,12.847483,0.08076,Consumer Cyclical
+LII,22.326077,0.76791,Industrials
+LLY,37.87762,1.07459,Healthcare
+LIN,34.12657,0.18229,Basic Materials
+LYV,,0.14927,Communication Services
+LMT,25.76886,0.6764,Industrials
+L,13.861499,0.09217,Financial Services
+LOW,17.927303,,Consumer Cyclical
+LULU,9.604073,0.34013,Consumer Cyclical
+LITE,161.2053,0.22834998,Technology
+LYB,,-0.060089998,Basic Materials
+MTB,12.091574,0.102910005,Financial Services
+MPC,16.34058,0.27458,Energy
+MAR,39.224556,,Consumer Cyclical
+MRSH,20.24625,0.27571,Financial Services
+MLM,35.212177,0.0947,Basic Materials
+MAS,17.054457,84.57143,Industrials
+MA,28.563732,2.32076,Financial Services
+MKC,7.67541,0.25347,Consumer Defensive
+MCD,23.041256,,Consumer Cyclical
+MCK,19.645834,,Healthcare
+MDT,21.675978,0.0939,Healthcare
+MRK,33.629215,0.18944,Healthcare
+META,22.275011,0.32930002,Communication Services
+MET,16.106382,0.13014,Financial Services
+MTD,25.864958,,Healthcare
+MGM,52.671234,0.13488,Consumer Cyclical
+MCHP,445.68182,0.03405,Technology
+MU,42.198776,0.39823002,Technology
+MSFT,24.74896,0.34013999,Technology
+MAA,39.557575,0.06711,Real Estate
+MRNA,,-0.36556998,Healthcare
+TAP,,-0.18080999,Consumer Defensive
+MDLZ,30.316833,0.101610005,Consumer Defensive
+MPWR,119.03937,0.19574,Technology
+MNST,42.231884,0.26654,Consumer Defensive
+MCO,32.360115,0.71361,Financial Services
+MS,18.275362,0.16388,Financial Services
+MOS,161.57143,0.0059399996,Basic Materials
+MSI,33.10323,0.99289,Technology
+MSCI,33.55302,,Financial Services
+NDAQ,27.373493,0.162,Financial Services
+NTAP,23.313757,1.12587,Technology
+NFLX,28.283873,0.48494998,Communication Services
+NEM,14.476006,0.25832,Basic Materials
+NWSA,33.16456,0.06524,Communication Services
+NWS,37.911392,0.06524,Communication Services
+NEE,22.246193,0.10325,Utilities
+NKE,29.565788,0.16016,Consumer Cyclical
+NI,23.781094,0.091120005,Utilities
+NDSN,30.751068,0.1714,Industrials
+NSC,26.954546,0.17615,Industrials
+NTRS,17.794764,0.14462,Financial Services
+NOC,17.454546,0.28511998,Industrials
+NCLH,13.790323,0.29533002,Consumer Cyclical
+NRG,154.31866,0.062480003,Utilities
+NUE,23.861967,0.12285,Basic Materials
+NVDA,32.903522,1.14288,Technology
+NVR,14.727485,0.33257,Consumer Cyclical
+NXPI,31.834452,0.25812998,Technology
+ORLY,29.273617,,Consumer Cyclical
+OXY,77.64864,0.04053,Energy
+ODFL,45.221294,0.23331,Industrials
+OMC,,0.02015,Communication Services
+ON,93.382355,0.074939996,Technology
+OKE,16.121212,0.15903,Energy
+ORCL,34.598568,0.57572,Technology
+OTIS,19.343086,,Industrials
+PCAR,23.831917,0.13108,Industrials
+PKG,26.51335,0.16313,Consumer Cyclical
+PLTR,153.48315,0.32587,Technology
+PANW,142.63889,0.16259001,Technology
+PSKY,345.66666,-0.0076800003,Communication Services
+PH,32.054283,0.24841999,Industrials
+PAYX,20.927153,,Technology
+PYPL,8.285178,0.25120002,Financial Services
+PNR,18.477386,0.1761,Industrials
+PEP,22.869701,0.43879002,Consumer Defensive
+PFE,19.732826,0.083100006,Healthcare
+PCG,12.7286825,0.08826999,Utilities
+PM,25.567606,,Consumer Defensive
+PSX,17.181818,0.14547,Energy
+PNW,19.184702,0.09559,Utilities
+PNC,12.83779,0.12104,Financial Services
+POOL,16.74472,0.34241,Industrials
+PPG,15.69341,0.20748,Basic Materials
+PPL,22.159508,0.08316,Utilities
+PFG,15.022956,0.13385999,Financial Services
+PG,20.931187,0.31112,Consumer Defensive
+PGR,10.110885,0.37903,Financial Services
+PLD,36.919598,0.06844,Real Estate
+PRU,10.568486,0.10711,Financial Services
+PEG,17.714602,0.13441,Utilities
+PTC,13.904031,0.344,Technology
+PSA,31.453512,0.20175,Real Estate
+PHM,11.407551,0.16178,Consumer Cyclical
+PWR,102.088036,0.13534,Industrials
+QCOM,26.7261,0.36083,Technology
+DGX,21.312708,0.14538999,Healthcare
+Q,52.916405,0.07481,Technology
+RL,25.25,0.34664002,Consumer Cyclical
+RJF,14.365439,0.17289,Financial Services
+RTX,33.57786,0.11571,Industrials
+O,51.188522,0.02831,Real Estate
+REG,27.14433,0.08003,Real Estate
+REGN,15.505009,0.14548,Healthcare
+RF,11.721992,0.11895,Financial Services
+RSG,29.663324,0.18346001,Industrials
+RMD,20.036608,0.25246,Healthcare
+RVTY,46.552887,0.03227,Healthcare
+HOOD,35.96602,0.21461001,Financial Services
+ROK,47.383175,0.27183,Industrials
+ROL,48.77064,0.38671002,Consumer Cyclical
+ROP,19.993757,0.09012,Technology
+ROST,32.776535,0.38981998,Consumer Cyclical
+RCL,16.343712,0.49576,Consumer Cyclical
+SPGI,26.106329,0.13939999,Financial Services
+CRM,22.929579,0.123959996,Technology
+SNDK,54.34359,0.39297,Technology
+SBAC,21.234735,,Real Estate
+SLB,25.541851,0.14066,Energy
+STX,80.01514,17.8797,Technology
+SRE,31.139456,0.05689,Utilities
+NOW,59.476192,0.1607,Technology
+SHW,29.927885,0.60723,Basic Materials
+SPG,14.3908205,1.1359,Real Estate
+SWKS,34.75833,0.06171,Technology
+SJM,,-0.20683001,Consumer Defensive
+SW,54.444443,0.02113,Consumer Cyclical
+SNA,19.190306,0.18202,Industrials
+SOLV,9.335373,0.34794998,Healthcare
+SO,24.063936,0.109910004,Utilities
+LUV,28.186666,0.10062,Industrials
+SWK,32.34836,0.04165,Industrials
+SBUX,77.419846,,Consumer Cyclical
+STT,16.109756,0.11261,Financial Services
+STLD,26.876612,0.15247,Basic Materials
+STE,27.238035,0.11368,Healthcare
+SYK,36.22685,0.152,Healthcare
+SMCI,19.526316,0.17877,Technology
+SYF,7.4430647,0.2178,Financial Services
+SNPS,81.98773,0.055430003,Technology
+SYY,20.922222,0.81894994,Consumer Defensive
+TMUS,20.330853,0.18024999,Communication Services
+TROW,11.139485,0.18688999,Financial Services
+TTWO,,-0.105579995,Communication Services
+TPR,42.87195,0.60914004,Consumer Cyclical
+TRGP,27.539797,0.74097997,Energy
+TGT,16.547493,0.22015,Consumer Defensive
+TEL,21.329245,0.22719999,Technology
+TDY,31.84432,0.09049,Technology
+TER,71.92976,0.2875,Technology
+TSLA,401.4722,0.04901,Consumer Cyclical
+TXN,55.536755,0.32347,Technology
+TPL,54.957417,0.36466,Energy
+TXT,17.687023,0.12254,Industrials
+TMO,24.625273,0.13523,Healthcare
+TJX,30.988304,0.6125,Consumer Cyclical
+TKO,69.92193,0.06736,Communication Services
+TTD,25.204546,0.16735001,Communication Services
+TSCO,14.679803,0.45504,Consumer Cyclical
+TT,35.223663,0.36630002,Industrials
+TDG,38.3125,,Industrials
+TRV,9.099701,0.25272,Financial Services
+TRMB,29.497383,0.08252,Technology
+TFC,12.049505,0.08579001,Financial Services
+TYL,42.398624,0.08930001,Technology
+TSN,51.283463,0.02619,Consumer Defensive
+USB,11.57652,0.123500004,Financial Services
+UBER,17.399504,0.3531,Technology
+UDR,25.870747,0.123500004,Real Estate
+ULTA,20.118519,0.43595,Consumer Cyclical
+UNP,22.312757,0.40686,Industrials
+UAL,9.465594,0.25726998,Industrials
+UPS,16.5,0.33353,Industrials
+URI,24.63341,0.28237,Industrials
+UNH,28.399395,0.121759996,Healthcare
+UHS,6.5398746,0.21369,Healthcare
+VLO,17.636961,0.1585,Energy
+VEEV,29.143381,0.13933,Healthcare
+VTR,160.67273,0.0214,Real Estate
+VLTO,22.177835,0.36463,Industrials
+VRSN,33.90718,,Technology
+VRSK,26.157011,,Industrials
+VZ,11.82683,0.17198,Communication Services
+VRTX,25.840544,0.24197,Healthcare
+VRT,81.38442,0.45097,Industrials
+VTRS,,-0.01957,Healthcare
+VICI,9.80137,0.11331,Real Estate
+V,28.488657,0.60349,Financial Services
+VST,27.56449,0.42898,Utilities
+VMC,31.864931,0.13458,Basic Materials
+WRB,14.264832,0.20164,Financial Services
+GWW,33.554123,0.46129,Industrials
+WAB,37.03541,0.11305001,Industrials
+WMT,41.60351,0.24132,Consumer Defensive
+DIS,16.5248,0.1101,Communication Services
+WBD,,-0.049590003,Communication Services
+WM,31.138727,0.29936,Industrials
+WAT,43.08397,0.05212,Healthcare
+WEC,22.643288,0.11679,Utilities
+WFC,11.981453,0.12028,Financial Services
+WELL,105.376816,0.03665,Real Estate
+WST,42.212288,0.19131,Healthcare
+WDC,31.453838,0.85920995,Technology
+WY,42.535713,0.04161,Real Estate
+WSM,22.215006,0.54007,Consumer Cyclical
+WMB,33.482456,0.19656,Energy
+WTW,15.052848,0.20611,Financial Services
+WDAY,38.635513,0.10858,Technology
+WYNN,28.04298,,Consumer Cyclical
+XEL,23.27954,0.0959,Utilities
+XYL,27.644278,0.08724,Industrials
+YUM,24.800322,,Consumer Cyclical
+ZBRA,30.487925,0.11781,Technology
+ZBH,21.867878,0.060650002,Healthcare
+ZTS,13.15246,0.67748,Healthcare
