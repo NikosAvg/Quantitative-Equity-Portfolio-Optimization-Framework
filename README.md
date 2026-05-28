@@ -297,7 +297,7 @@ pip install pandas numpy matplotlib scipy scikit-learn yfinance tqdm
 Run the strategy:
 
 ```bash
-python stocks_with_backtest_fast_2.py
+python strategy.py
 ```
 
 ---
